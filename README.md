@@ -35,10 +35,6 @@ This documentation highlights my **first open-source contribution**, where I suc
 
 #### **Approval and Feedback**  
 - **Approval Status:** Approved and merged by a project maintainer (@JacobCoffee).  
-- **Maintainer Feedback:**  
-  - Comment: *"Thanks @MrunaliniPachpute! :)"*  
-- **Author Acknowledgment:**  
-  - Comment: *"Thank you! Happy to help and eager to assist with anything else."*  
 
 ---
 
